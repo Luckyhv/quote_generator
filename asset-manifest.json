@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Quote-generator/static/css/main.ac3ee8a0.css",
+    "main.js": "/Quote-generator/static/js/main.08195420.js",
+    "static/js/787.bf514722.chunk.js": "/Quote-generator/static/js/787.bf514722.chunk.js",
+    "static/media/city.jpg": "/Quote-generator/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/Quote-generator/index.html",
+    "main.ac3ee8a0.css.map": "/Quote-generator/static/css/main.ac3ee8a0.css.map",
+    "main.08195420.js.map": "/Quote-generator/static/js/main.08195420.js.map",
+    "787.bf514722.chunk.js.map": "/Quote-generator/static/js/787.bf514722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac3ee8a0.css",
+    "static/js/main.08195420.js"
+  ]
+}
